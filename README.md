@@ -5,6 +5,13 @@ Este projeto teve como objetivo principal explorar e entender a satisfação dos
 
 Link para o conjunto de dados: [Kaggle - Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
+## Tecnologias utilizadas
+<div align="center" >
+  <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
 ## Estrutura do Projeto
 O projeto foi estruturado da seguinte forma:
 
