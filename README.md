@@ -15,6 +15,6 @@ O projeto foi estruturado da seguinte forma:
 - **3. Conclusões e Recomendações:** Com base nos insights obtidos, foram formuladas conclusões sobre os principais fatores que impactam a satisfação do cliente no marketplace estudado. Além disso, foram sugeridas recomendações estratégicas para melhorar a experiência geral do cliente e, consequentemente, a performance do negócio.
 
 ## Contribuições
-Contribuições são bem-vindas! Se você identificar melhorias ou correções, sinta-se à vontade para abrir um pull request ou uma issue neste repositório, ou entrar em contato pelo <a href = "mailto:pedrohenriquegomes01@gmail.com">Email</a>.
+Contribuições são bem-vindas! Se você identificar melhorias ou correções, sinta-se à vontade para abrir um pull request ou uma issue neste repositório, ou entrar em contato pelo email <a href = "mailto:pedrohenriquegomes01@gmail.com">pedrohenriquegomes01@gmail.com</a>.
 
 
